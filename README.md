@@ -1,5 +1,5 @@
 # ABeam-FinalProject
-This repository contains important files of Group B in ABeam Business Analytic Course Final Project. In this final project, we analyzed the root cause of slow profit growth and provided a solution using a decision tree model.  
+This repository contains important files of Group B in ABeam Business Analytic Course Final Project. In this final project, we analyzed the root cause of slow profit growth and provided solutions using a decision tree model.  
 
 Group B consist of
 - Ibnu Sulaiman 
